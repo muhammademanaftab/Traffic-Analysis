@@ -1,0 +1,33 @@
+Traffic analysis data of a highway in 2023 is stored in a textfile. A data entry consists of the month, the day, and the number of vehicles observed on that day. Due to some errors, there are no observations from every day of the year. The file is ordered by month and day.
+
+A sample file:
+
+3 5 33456
+
+3 6 45564
+
+4 12 50000
+
+ 
+
+For grade 3: Which was the busiest day where the number of vehicles was the highest?
+
+For the sample file the answer is 4 12.
+
+For grade 3 you have to create a class which processes one line of the file with a Read() method.
+
+ 
+
+For grade 5: Which was the busiest month where the total number of vehicles was the highest?
+
+For the sample file the answer is 3.
+
+For grade 5 you have to create a custom enumerator class with operations First, Next, Current, and End to process the content of the file. All the algorithms have to be algorithmic pattern-based as it was taught on the labs.
+
+You do not have to create the solution for grade 3 to submit you code for grade 5, though, it is worthy.
+
+Please zip your solution, delete the bin and obj folders and upload it into Canvas. The name of the Assignment is Computer-based midterm.
+
+If you submit the solution of both tasks, please put them into one archive and upload them together.
+
+Sample file is not provided, you have to create your own!
